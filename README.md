@@ -15,3 +15,8 @@ This is a **RESTful API** built using **Node.js, Express.js, and MongoDB** that 
 ✅ Express.js for routing  
 ✅ Mongoose for database modeling  
 
+## 🛠️ Technologies Used
+- **Node.js** – Backend runtime environment  
+- **Express.js** – Web framework for Node.js  
+- **MongoDB & Mongoose** – NoSQL database & ODM for MongoDB  
+- **JavaScript** – Main programming language  

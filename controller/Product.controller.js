@@ -1,4 +1,3 @@
-// import { find, findById, create, findByIdAndUpdate, findByIdAndDelete } from '../models/product.model.js';
 const Product = require('../models/product.model.js');
 
 const getProducts = async (req, res) => {

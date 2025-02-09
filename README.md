@@ -21,5 +21,6 @@ This is a **RESTful API** built using **Node.js, Express.js, and MongoDB** that 
 - **MongoDB & Mongoose** – NoSQL database & ODM for MongoDB  
 - **JavaScript** – Main programming language
 
-![API Testing Screenshot](./Screenshots/API Testing.png)
+![API Testing Screenshot](https://raw.githubusercontent.com/Goutam990/Crud-app-backend/main/screenshot/API Testing.png)
+
 

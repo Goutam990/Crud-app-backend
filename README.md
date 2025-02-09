@@ -22,8 +22,25 @@ This is a **RESTful API** built using **Node.js, Express.js, and MongoDB** that 
 - **JavaScript** – Main programming language
 
 ## 📷 API Testing Screenshots
-Here is a screenshot of API testing:
 
-![API Testing Screenshot](./Screenshots/API-Testing.png)
+Here are some API testing screenshots demonstrating CRUD operations:
+
+### 🔹 1. Overall API Testing  
+![API Testing](./Screenshots/API-Testing.png)
+
+### 🔹 2. Add Product API  
+![API Testing - Add Product](./Screenshots/API-Testing-Add-product.png)
+
+### 🔹 3. Get All Products API  
+![API Testing - Get API](./Screenshots/API-Testing-Get-API.png)
+
+### 🔹 4. Get Single Product API  
+![API Testing - Single Product](./Screenshots/API-Testing-Single-product.png)
+
+### 🔹 5. Update Product API  
+![API Testing - Update](./Screenshots/API-Testing-Update.png)
+
+### 🔹 6. Delete Product API  
+![API Testing - Delete](./Screenshots/API-Testing-Delete.png)
 
 

@@ -21,6 +21,9 @@ This is a **RESTful API** built using **Node.js, Express.js, and MongoDB** that 
 - **MongoDB & Mongoose** – NoSQL database & ODM for MongoDB  
 - **JavaScript** – Main programming language
 
+## 📷 API Testing Screenshots
+Here is a screenshot of API testing:
+
 ![API Testing Screenshot](./Screenshots/API-Testing.png)
 
 

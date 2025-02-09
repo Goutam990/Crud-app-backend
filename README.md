@@ -19,4 +19,7 @@ This is a **RESTful API** built using **Node.js, Express.js, and MongoDB** that 
 - **Node.js** – Backend runtime environment  
 - **Express.js** – Web framework for Node.js  
 - **MongoDB & Mongoose** – NoSQL database & ODM for MongoDB  
-- **JavaScript** – Main programming language  
+- **JavaScript** – Main programming language
+
+![API Testing Screenshot](./Screenshots/API Testing.png)
+

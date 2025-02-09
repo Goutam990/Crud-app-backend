@@ -43,4 +43,10 @@ Here are some API testing screenshots demonstrating CRUD operations:
 ### 🔹 6. Delete Product API  
 ![API Testing - Delete](./Screenshots/API-Testing-Delete.png)
 
+### 🔹 7. Localhost - All Products  
+![Localhost - All Products](./Screenshots/localhost-All-product.png)
+
+### 🔹 8. Localhost - Single Product  
+![Localhost - Single Product](./Screenshots/localhost-Single-product.png)
+
 

@@ -31,7 +31,7 @@ Here are some API testing screenshots demonstrating CRUD operations:
 ### 🔹 2. Add Product API  
 ![API Testing - Add Product](./Screenshots/API-Testing-Add-product.png)
 
-### 🔹 3. Get All Products API  
+### 🔹 3. Response from server 
 ![API Testing - Get API](./Screenshots/API-Testing-Get-API.png)
 
 ### 🔹 4. Get Single Product API  
